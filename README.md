@@ -8,3 +8,7 @@ This course will run on the Jupyter notebook. Please download Anaconda before th
 https://www.anaconda.com/products/distribution
 
 Please email us if you encounter any issues with your installation or if you have any questions at codeworkshopou@gmail.com
+
+
+The code for this course is modified from the tutorials here:
+https://www.tensorflow.org/resources/learn-ml
